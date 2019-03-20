@@ -66,11 +66,6 @@
 ### If you have any questions concerning cookies, please contact us.
 
 
-## DoubleClick DART and Third-Party Vendors Cookies
-
-### We also may use DART and third-party vendors cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART cookies use "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.networkadvertising.org/managing/opt_out.asp
-Third parties, like Google, may collect certain types of information about visits to the site, including interaction with content on these sites. As always, no personally identifiable information will be collected.
-
 ## Children Under 13
 
 ### Our site is not directed to children under the age of 13. We respect the privacy of parents and children and are committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the sites that ask for age, we do not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where we believe that such collection is permitted under COPPA.
